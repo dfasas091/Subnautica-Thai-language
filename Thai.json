@@ -449,8 +449,8 @@
     "AirBladder": "Air bladder",
 
     "DEPTH": "DEPTH",
-	"POWER": "POWER",
-    "NITROGEN": "NITROGEN",
+    "POWER": "พลังงานไฟฟ้า",
+    "NITROGEN": "ไนโตรเจน",
     "MeterSuffix": "m",
     "SUB DEPTH": "SUB DEPTH",
     "ECOSYSTEM": "ECOSYSTEM",
